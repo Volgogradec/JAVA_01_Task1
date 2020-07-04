@@ -20,11 +20,11 @@
 ```
 java -version
 ```
-Получаем значение:
+Получено значение:
 ```
-openjdk version "11.0.5" 2019-10-15
-OpenJDK Runtime Environment AdoptOpenJDK (build 11.0.5+10)
-OpenJDK 64-Bit Server VM AdoptOpenJDK (build 11.0.5+10, mixed mode)
+openjdk version "11.0.7" 2020-04-14
+OpenJDK Runtime Environment AdoptOpenJDK (build 11.0.7+10)
+OpenJDK 64-Bit Server VM AdoptOpenJDK (build 11.0.7+10, mixed mode)
 ```
 
 Тестирование производилось в следующем окружении:
